@@ -1,10 +1,10 @@
 {
   "name": "LethalReynolds",
-  "version_number": "0.0.2",
+  "version_number": "0.0.3",
   "website_url": "https://femboy.tv",
   "description": "Adds Ryan Reynolds posters to the ship",
   "dependencies": [
     "BepInEx-BepInExPack-5.4.2100",
-    "femboytv-LethalPosters-1.0.4"
+    "femboytv-LethalPosters-1.0.6"
   ]
 }
